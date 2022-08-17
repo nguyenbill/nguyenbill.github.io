@@ -286,7 +286,7 @@
 <p class="float-right">
 <a href="https://vdt34.github.io/index.html"><i class="fa fa-arrow-up"></i></a>
 </p>
-<p class="copyright">Copyright © 2022 <a href="[https://thanhhamobile.business.site/?utm_source=gmb&amp;utm_medium=referral](https://nguyenlongmobile.business.site/)">Nguyễn Long Mobile</a>.</p>
+<p class="copyright">Copyright © 2022 <a href="https://nguyenlongmobile.business.site">Nguyễn Long Mobile</a>.</p>
 </div>
 </footer>
 <script src="./FRP - Nguyễn Long Mobile_files/jquery.slim.min.js.tải xuống" type="text/javascript"></script>
