@@ -5,7 +5,7 @@
 <meta name="author" content="Nguyễn Long Mobile">
 <meta name="generator" content="">
 <title>FRP - Nguyễn Long Mobile</title>
-<link rel="stylesheet" href="./FRP - Thanh Hà Mobile_files/font-awesome.min.css">
+<link rel="stylesheet" href="./FRP - Nguyễn Long Mobile_files/font-awesome.min.css">
 <link href="./FRP - Nguyễn Long Mobile_files/bootstrap.min.css" rel="stylesheet">
 
 
@@ -53,7 +53,7 @@
 <header>
 <div class="navbar navbar-dark bg-dark shadow-sm">
 <div class="container d-flex justify-content-between">
-<a href="https://thanhhamobile.business.site/?utm_source=gmb&amp;utm_medium=referral" class="navbar-brand d-flex align-items-center">
+<a href="https://nguyenlongmobile.business.site/" class="navbar-brand d-flex align-items-center">
 <strong>Nguyễn Long Mobile : +84963906590</strong>
 </a>
 </div>
@@ -64,97 +64,97 @@
 <div class="container" style="margin-bottom:10px;">
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end" target="_blank"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/galaxy-store.png" alt="Galaxy Store" height="16"></a>
+<a class="file-title" href="intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end" target="_blank"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/galaxy-store.png" alt="Galaxy Store" height="16"></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/gg-search-app.png" alt="Google Search App" height="16"></a>
+<a class="file-title" href="intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/gg-search-app.png" alt="Google Search App" height="16"></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.android.settings/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/setting-app.png" alt="Setting App" height="16"> <span style="color:#000;">Settings App</span></a>
+<a class="file-title" href="intent://com.android.settings/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/setting-app.png" alt="Setting App" height="16"> <span style="color:#000;">Settings App</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/system-lock-screen-icon.png" alt="Setting App" height="16"> <span style="color:#000;">Set LockScreen (Settings)</span></a>
+<a class="file-title" href="intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/system-lock-screen-icon.png" alt="Setting App" height="16"> <span style="color:#000;">Set LockScreen (Settings)</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/3.png" alt="Setting App" height="16"> <span style="color:#000;">My files</span></a>
+<a class="file-title" href="intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/3.png" alt="Setting App" height="16"> <span style="color:#000;">My files</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.rrivenllc.shieldx" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Install <img src="./FRP - Thanh Hà Mobile_files/alliance-shield.png" alt="Setting App" height="16"> <span style="color:#000;">Alliance Shield (ONLY KNOX SUPPORTED DEVICES 👇)</span></a>
+<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.rrivenllc.shieldx" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Install <img src="https://vdt34.github.io//frp_files/alliance-shield.png" alt="Setting App" height="16"> <span style="color:#000;">Alliance Shield (ONLY KNOX SUPPORTED DEVICES 👇)</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="https://www.samsungknox.com/en/knox-platform/supported-devices" data-wpel-link="internal"><i class="fa fa-caret-right"></i>Check <img src="./FRP - Thanh Hà Mobile_files/KNOX.ico" alt="Setting App" height="16"> <span style="color:#000;">Devices secured by Knox</span></a>
+<a class="file-title" href="https://www.samsungknox.com/en/knox-platform/supported-devices" data-wpel-link="internal"><i class="fa fa-caret-right"></i>Check <img src="https://vdt34.github.io//frp_files/KNOX.ico" alt="Setting App" height="16"> <span style="color:#000;">Devices secured by Knox</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/alliance-shield.png" alt="Setting App" height="16"> <span style="color:#000;">Alliance Shield</span></a>
+<a class="file-title" href="intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/alliance-shield.png" alt="Setting App" height="16"> <span style="color:#000;">Alliance Shield</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.jami.tool.hiddensetting/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/hiddensetting.png" alt="Setting App" height="16"> <span style="color:#000;">Hidden Setting</span></a>
+<a class="file-title" href="intent://com.jami.tool.hiddensetting/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/hiddensetting.png" alt="Setting App" height="16"> <span style="color:#000;">Hidden Setting</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.apkpure.aegon/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/apkpure.png" alt="Setting App" height="16"> <span style="color:#000;">APKPure</span></a>
+<a class="file-title" href="intent://com.apkpure.aegon/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/apkpure.png" alt="Setting App" height="16"> <span style="color:#000;">APKPure</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.s9launcher.galaxy.laucher/com.s9.launcher.Launcher" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/s9.png" alt="Setting App" height="16"> <span style="color:#000;">S9 Launcher</span></a>
+<a class="file-title" href="intent://com.s9launcher.galaxy.laucher/com.s9.launcher.Launcher" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/s9.png" alt="Setting App" height="16"> <span style="color:#000;">S9 Launcher</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.sec.android.app.sbrowser&amp;cld-000005006635" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/Browser.png" alt="Setting App" height="16"> <span style="color:#000;">Samsung Browser</span></a>
+<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.sec.android.app.sbrowser&amp;cld-000005006635" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/Browser.png" alt="Setting App" height="16"> <span style="color:#000;">Samsung Browser</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.samsung.android.dialer/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/dial.jpg" alt="Dialer app" height="16"> <span style="color:#000;">Dialer app</span></a>
+<a class="file-title" href="intent://com.samsung.android.dialer/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/dial.jpg" alt="Dialer app" height="16"> <span style="color:#000;">Dialer app</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="intent://com.sika524.android.quickshortcut/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/quick.jpg" alt="QuickShortcutMaker" height="16"> <span style="color:#000;">QuickShortcutMaker</span></a>
+<a class="file-title" href="intent://com.sika524.android.quickshortcut/#Intent;scheme=android-app;end" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/quick.jpg" alt="QuickShortcutMaker" height="16"> <span style="color:#000;">QuickShortcutMaker</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.authfw&amp;cld=000004009606" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/pass.jpg" alt="Setting App" height="16"> <span style="color:#000;">Samsung Pass</span></a>
+<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.authfw&amp;cld=000004009606" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/pass.jpg" alt="Setting App" height="16"> <span style="color:#000;">Samsung Pass</span></a>
 </div>
 </div>
 <br>
 <div class="row file-row">
 <div class="col-lg-12">
-<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.sec.android.easyMover&amp;cld=000004936714" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="./FRP - Thanh Hà Mobile_files/smart.png" alt="Setting App" height="16"> <span style="color:#000;">Smart Switch</span></a>
+<a class="file-title" href="https://apps.samsung.com/appquery/appDetail.as?appId=com.sec.android.easyMover&amp;cld=000004936714" data-wpel-link="internal"><i class="fa fa-caret-right"></i> Open <img src="https://vdt34.github.io//frp_files/smart.png" alt="Setting App" height="16"> <span style="color:#000;">Smart Switch</span></a>
 </div>
 </div>
 </div>
